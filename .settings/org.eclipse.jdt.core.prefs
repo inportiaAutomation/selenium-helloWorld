@@ -1,7 +1,11 @@
 eclipse.preferences.version=1
 org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
 org.eclipse.jdt.core.compiler.codegen.methodParameters=do not generate
+<<<<<<< HEAD
 org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.8
+=======
+org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.7
+>>>>>>> 4c6ed81db98f8f095f88bed6add16db5368e34c8
 org.eclipse.jdt.core.compiler.codegen.unusedLocal=preserve
 org.eclipse.jdt.core.compiler.compliance=1.8
 org.eclipse.jdt.core.compiler.debug.lineNumber=generate
